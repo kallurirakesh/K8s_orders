@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Azure\\Azure AD\\Orders\\Products.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\yaml\\nginx-deploy.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\yaml\\nginx-deploy.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\products.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\products.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\azure\\azure ad\\orders\\products.api\\docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\cosmosloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\cosmosloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\azure\\azure ad\\orders\\products.api\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rakesh.kalluri\\.nuget\\packages\\microsoft.azure.cosmos\\3.63.0\\buildTransitive\\netstandard2.0\\Microsoft.Azure.Cosmos.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\cosmosdboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\cosmosdboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\loanapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\loanapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|c:\\azure\\azure ad\\orders\\products.api\\products.api\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4397ED62-4BF0-4931-67A9-E0D68B263AE3}|Products.API\\Products.API.csproj|solutionrelative:products.api\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nginx-deploy.yaml",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\yaml\\nginx-deploy.yaml",
+              "RelativeDocumentMoniker": "Products.API\\yaml\\nginx-deploy.yaml",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\yaml\\nginx-deploy.yaml",
+              "RelativeToolTip": "Products.API\\yaml\\nginx-deploy.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-09-17T06:53:40.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-09-16T04:21:37.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\Product.cs",
+              "RelativeDocumentMoniker": "Products.API\\Product.cs",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\Product.cs",
+              "RelativeToolTip": "Products.API\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:37:32.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Products.API\\appsettings.json",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\appsettings.json",
+              "RelativeToolTip": "Products.API\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-15T16:53:04.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.API.csproj",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\Products.API.csproj",
+              "RelativeDocumentMoniker": "Products.API\\Products.API.csproj",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\Products.API.csproj",
+              "RelativeToolTip": "Products.API\\Products.API.csproj",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-15T16:56:48.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\Program.cs",
+              "RelativeDocumentMoniker": "Products.API\\Program.cs",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\Program.cs",
+              "RelativeToolTip": "Products.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:37:30.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CosmosLoanRepository.cs",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\CosmosLoanRepository.cs",
+              "RelativeDocumentMoniker": "Products.API\\CosmosLoanRepository.cs",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\CosmosLoanRepository.cs",
+              "RelativeToolTip": "Products.API\\CosmosLoanRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvyMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T05:11:06.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAYwMwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-09-16T09:41:01.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-09-16T04:18:40.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.Azure.Cosmos.targets",
+              "DocumentMoniker": "C:\\Users\\rakesh.kalluri\\.nuget\\packages\\microsoft.azure.cosmos\\3.63.0\\buildTransitive\\netstandard2.0\\Microsoft.Azure.Cosmos.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\rakesh.kalluri\\.nuget\\packages\\microsoft.azure.cosmos\\3.63.0\\buildTransitive\\netstandard2.0\\Microsoft.Azure.Cosmos.targets",
+              "ToolTip": "C:\\Users\\rakesh.kalluri\\.nuget\\packages\\microsoft.azure.cosmos\\3.63.0\\buildTransitive\\netstandard2.0\\Microsoft.Azure.Cosmos.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\rakesh.kalluri\\.nuget\\packages\\microsoft.azure.cosmos\\3.63.0\\buildTransitive\\netstandard2.0\\Microsoft.Azure.Cosmos.targets",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAEwEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-09-16T05:13:36.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILoanRepository.cs",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\ILoanRepository.cs",
+              "RelativeDocumentMoniker": "Products.API\\ILoanRepository.cs",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\ILoanRepository.cs",
+              "RelativeToolTip": "Products.API\\ILoanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T05:04:58.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "Products.API\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "Products.API\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:59:39.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoanApplication.cs",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\LoanApplication.cs",
+              "RelativeDocumentMoniker": "Products.API\\LoanApplication.cs",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\LoanApplication.cs",
+              "RelativeToolTip": "Products.API\\LoanApplication.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T05:04:29.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CosmosDbOptions.cs",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\CosmosDbOptions.cs",
+              "RelativeDocumentMoniker": "Products.API\\CosmosDbOptions.cs",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\CosmosDbOptions.cs",
+              "RelativeToolTip": "Products.API\\CosmosDbOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T05:01:00.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Products.API\\Dockerfile",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\Dockerfile",
+              "RelativeToolTip": "Products.API\\Dockerfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-16T04:18:26.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\ProductsService.cs",
+              "RelativeDocumentMoniker": "Products.API\\ProductsService.cs",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\ProductsService.cs",
+              "RelativeToolTip": "Products.API\\ProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:37:41.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Products.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Azure\\Azure AD\\Orders\\Products.API\\Products.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Products.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:37:36.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

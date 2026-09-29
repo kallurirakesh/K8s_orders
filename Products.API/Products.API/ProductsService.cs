@@ -1,0 +1,36 @@
+using MongoDB.Driver;
+using Microsoft.Extensions.Configuration;
+
+namespace Products.API;
+
+public class ProductsService
+{
+    private readonly IMongoCollection<Product> _collection;
+
+    public ProductsService(IConfiguration configuration)
+    {
+        var section = configuration.GetSection("MongoDb");
+        var conn = section.GetValue<string>("ConnectionString") ?? "mongodb://localhost:27017";
+        var dbName = section.GetValue<string>("Database") ?? "ProductsDb";
+        var collectionName = section.GetValue<string>("Collection") ?? "Products";
+
+        var client = new MongoClient(conn);
+        var db = client.GetDatabase(dbName);
+        _collection = db.GetCollection<Product>(collectionName);
+    }
+
+    public async Task<List<Product>> GetAsync()
+    {
+        return await _collection.Find(_ => true).ToListAsync();
+    }
+
+    public async Task<Product?> GetAsync(string id)
+    {
+        return await _collection.Find(p => p.Id == id).FirstOrDefaultAsync();
+    }
+
+    public async Task CreateAsync(Product product)
+    {
+        await _collection.InsertOneAsync(product);
+    }
+}

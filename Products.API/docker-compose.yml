@@ -1,0 +1,9 @@
+services:
+  products.api:
+    image: ${DOCKER_REGISTRY-}productsapi
+    build:
+      context: .
+      dockerfile: Products.API/Dockerfile
+
+  product.db:
+    image: mongo
